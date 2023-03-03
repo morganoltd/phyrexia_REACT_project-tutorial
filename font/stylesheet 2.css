@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Avalen Rekas';
+    src: url('AvalenRekas-Regular.eot');
+    src: url('AvalenRekas-Regular.eot?#iefix') format('embedded-opentype'),
+        url('AvalenRekas-Regular.woff2') format('woff2'),
+        url('AvalenRekas-Regular.woff') format('woff'),
+        url('AvalenRekas-Regular.ttf') format('truetype'),
+        url('AvalenRekas-Regular.svg#AvalenRekas-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Iron Master Demo';
+    src: url('IronMasterDemoRegular.eot');
+    src: url('IronMasterDemoRegular.eot?#iefix') format('embedded-opentype'),
+        url('IronMasterDemoRegular.woff2') format('woff2'),
+        url('IronMasterDemoRegular.woff') format('woff'),
+        url('IronMasterDemoRegular.ttf') format('truetype'),
+        url('IronMasterDemoRegular.svg#IronMasterDemoRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avalen Rekas';
+    src: url('AvalenRekas-Regular_1.eot');
+    src: url('AvalenRekas-Regular_1.eot?#iefix') format('embedded-opentype'),
+        url('AvalenRekas-Regular_1.woff2') format('woff2'),
+        url('AvalenRekas-Regular_1.woff') format('woff'),
+        url('AvalenRekas-Regular_1.ttf') format('truetype'),
+        url('AvalenRekas-Regular_1.svg#AvalenRekas-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
