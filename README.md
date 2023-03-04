@@ -1,4 +1,4 @@
-# PHYREAXIA - All will be One
+# PHYREXIA - All will be One
 ![ressurection_preview](PHYREXIA_ICON.png)
 
 ## Description
