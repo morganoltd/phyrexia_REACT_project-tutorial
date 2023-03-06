@@ -15,7 +15,7 @@ My site is mainly focused on frontend. This means that there is no greater funct
 - Javascript
 
 # My Portfolio :smiling_imp:
-### [Behance](https://www.behance.net/karolkomor1b9a) :computer:
+### [Behance](https://www.behance.net/KarolKomorowski) :computer:
 
 ![Behance Profile](behance_banner.png)
 ### [Github](https://github.com/FLaMeREVENGE) :paw_prints:
